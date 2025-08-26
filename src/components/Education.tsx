@@ -25,7 +25,7 @@ const Education = () => {
                     Análise e Desenvolvimento de Sistemas
                   </h3>
                   <p className="text-xl text-primary font-semibold">
-                    Unifap - Universidade Federal do Amapá
+                    Unifap - Centro Universitário Paraíso - UniFAP (2022 - 2026)
                   </p>
                 </div>
                 
@@ -36,7 +36,7 @@ const Education = () => {
                   </div>
                   <div className="flex items-center gap-2">
                     <MapPin size={16} />
-                    <span>Macapá, AP</span>
+                    <span>Juazeiro do Norte - Ce</span>
                   </div>
                 </div>
               </div>

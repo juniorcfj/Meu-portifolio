@@ -1,6 +1,6 @@
 import { Download, Mail, Phone, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profilePhoto from "@/assets/profile-photo.png";
+import profilePhoto from ".//./../assets/Hero.png";
 
 const Hero = () => {
   const handleContact = () => {
@@ -19,7 +19,7 @@ const Hero = () => {
           {/* Content */}
           <div className="text-center lg:text-left animate-fade-in">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
-              José Itamar Pereira de Sousa
+              José Itamar Pereira de Sousa Junior
               <span className="block text-2xl md:text-3xl lg:text-4xl font-normal text-blue-light mt-2">
                 Junior
               </span>
@@ -39,7 +39,7 @@ const Hero = () => {
             <div className="space-y-3 mb-8 text-blue-light/90">
               <div className="flex items-center justify-center lg:justify-start gap-3">
                 <Phone size={18} />
-                <span>88994737825</span>
+                <span>(88) 994737825</span>
               </div>
               <div className="flex items-center justify-center lg:justify-start gap-3">
                 <Mail size={18} />
